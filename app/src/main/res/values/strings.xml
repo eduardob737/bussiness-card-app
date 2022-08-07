@@ -9,4 +9,5 @@
     <string name="txt_color">Cor</string>
     <string name="txt_confirm">Confirmar</string>
     <string name="txt_show_sucess">Cartão cadastrado com sucesso</string>
+    <string name="txt_share">Compartilhar</string>
 </resources>
